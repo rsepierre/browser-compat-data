@@ -126,6 +126,7 @@
               },
               "firefox_android": {
                 "version_added": "4"
+                "notes": "Deactivated by default for all users whether the video is silent or not. Users to have manually opt-in for all websites. Developpers can not ask for user to opt-in for their website."
               },
               "ie": {
                 "version_added": "9"
